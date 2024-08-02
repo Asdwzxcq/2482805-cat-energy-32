@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Юрий](https://up.htmlacademy.ru/adaptive/32/user/2482805).
-* Наставник: `Андрей Грачев`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
